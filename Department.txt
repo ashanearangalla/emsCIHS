@@ -1,0 +1,4 @@
+HR1,HR Department,0112223243,hr@gmail.com
+F3,Finance Department,0113452356,fin@gmail.com
+IT2,IT Dept,0112182122,it@gmail.com
+PRO2,Procurement Dept,0775211211,pro@gmail.com

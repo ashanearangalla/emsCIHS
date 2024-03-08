@@ -1,0 +1,7 @@
+A100,Ashane Silva,HR Department,Trainee,23451,0772212344,ashen@gmail.com
+A200,Shehan Perera,IT Department,Network Admin,124244,0772121181,shehan@gmail.com
+A300,Sachintha Naveen,HR Department,HR Manager,92221,0772192121,sachintha@gmail.com
+A500,Jesse Pinkman,HR Department,Trainee,83291,0772123122,jesse@mail.com
+A123,Saman,HR Department,Trainee,5421,123,saman@gmail.com
+A291,Manusha,HR Department,Trainee,2812,0882121111,manu@gmail.com
+A652,Samantha Perera,Procurement Dept,Officer,76211,07725212211,sam@gmail.com
